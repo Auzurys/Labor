@@ -971,3 +971,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.28-09.12.49:942][257]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
 [2023.06.28-09.12.50:953][277]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 94
 [2023.06.28-09.12.50:953][277]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.12.53:109][345]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 84
+[2023.06.28-09.12.53:109][345]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.12.56:604][455]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2023.06.28-09.12.56:604][455]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.12.58:901][543]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2023.06.28-09.12.58:901][543]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.12.59:708][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2023.06.28-09.12.59:708][573]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.00:062][586]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2023.06.28-09.13.00:063][586]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.02:948][696]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2023.06.28-09.13.02:948][696]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.06:838][844]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2023.06.28-09.13.06:838][844]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.06:840][844]LogShaderCompilers: Warning: Failed to compile Material /Game/Forest/Landscape_M.Landscape_M (MI:/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Landscape_0.LandscapeMaterialInstanceConstant_35) for platform PCD3D_SM5, Default Material will be used in game.
+[2023.06.28-09.13.06:840][844]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2562,2-40):  warning X3206: implicit truncation of vector type
+[2023.06.28-09.13.06:840][844]LogShaderCompilers: Display: /Engine/Generated/UniformBuffers/Material.ush(33,14-41):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2023.06.28-09.13.06:840][844]LogShaderCompilers: Warning: Failed to compile Material /Game/Forest/Landscape_M.Landscape_M (MI:/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Landscape_0.LandscapeMaterialInstanceConstant_74) for platform PCD3D_SM5, Default Material will be used in game.
+[2023.06.28-09.13.06:840][844]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2562,2-40):  warning X3206: implicit truncation of vector type
+[2023.06.28-09.13.06:840][844]LogShaderCompilers: Display: /Engine/Generated/UniformBuffers/Material.ush(33,14-41):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2023.06.28-09.13.08:737][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2023.06.28-09.13.08:738][897]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.08:819][900]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2023.06.28-09.13.08:819][900]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.10:420][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2023.06.28-09.13.10:420][953]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.13:373][ 44]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2023.06.28-09.13.13:373][ 44]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.13:615][ 49]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2023.06.28-09.13.13:615][ 49]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.14:155][ 64]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.06.28-09.13.14:155][ 64]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.28-09.13.14:970][ 94]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.06.28-09.13.14:970][ 94]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
